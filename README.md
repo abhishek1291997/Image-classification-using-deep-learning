@@ -20,7 +20,9 @@ CNNs require lesser pre-processing as compared to other similar classification a
 ## Getting Started
 Use the Anaconda navigator to open the Jupyter notebook and start implementing it.
 
-## Pre-requisites **Install all these libraries in your local environment**
+## Pre-requisites 
+
+**Install all these libraries in your local environment**
 * Numpy
 * Pandas
 * Scikit-learn
