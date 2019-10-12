@@ -35,12 +35,7 @@ This is image data of Natural Scenes around the world.
 This Data contains around 25k images of size 150x150 distributed under 6 categories. {buildings, forest, glacier, mountain, sea,  street}
 There are around 14k images in Train, 3k in Test and 7k in Prediction.
 
-Sample images 
-* Buildings
-![]( https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwik7Yy4r5flAhXBRY8KHb80DcQQjRx6BAgBEAQ&url=https%3A%2F%2Funsplash.com%2Fwallpapers%2Ftravel%2Fcity&psig=AOvVaw3D5RVp5abbZkrBEDbsWW9f&ust=1570992008960409 )
-
-
 ## Acknowledgement
 Used the dataset from kaggle [intel-image-classification](https://www.kaggle.com/puneet6060/intel-image-classification) .
-Thanks to https://datahack.analyticsvidhya.com for the challenge and Intel for the Data
+Thanks to https://datahack.analyticsvidhya.com for the challenge and Intel for the Data.
 Photo by Jan Böttinger on Unsplash
