@@ -37,6 +37,11 @@ This is image data of Natural Scenes around the world.
 This Data contains around 25k images of size 150x150 distributed under 6 categories. {buildings, forest, glacier, mountain, sea,  street}
 There are around 14k images in Train, 3k in Test and 7k in Prediction.
 
+## Working
+- Firstly, I imported all the useful libraries needed for our project. Then we started by creating empty lists for our training data, test data folder. 
+- After all this, get all the images from directories to predefined empty lists, by reading them and resizing them so that all the images are of same size. After this, start making the model and training the data. 
+- The main **challenge** in making the model to create a efficient one which has low computational cost. By using the separable convolution instead of traditional convolution layer we achieved the better result with less computation cost.
+
 ## Acknowledgement
 Used the dataset from kaggle [intel-image-classification](https://www.kaggle.com/puneet6060/intel-image-classification) .
 Thanks to https://datahack.analyticsvidhya.com for the challenge and Intel for the Data.
